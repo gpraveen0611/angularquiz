@@ -1,2 +1,0 @@
-# angularquiz
-Angular Quiz
